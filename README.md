@@ -1,23 +1,40 @@
-# 👋 Hi, I’m DPSHV
+# Cześć, jestem DPSHV
 
-I’m a **System Administrator / DevOps Engineer** working with Linux, automation, and cloud environments.  
-This GitHub is my place to collect tools, scripts, and documentation that make everyday work faster and more reliable.
+Jestem administratorem systemów i inżynierem DevOps.  
+Na co dzień pracuję z systemami Linux (Ubuntu, Debian, CentOS, AlmaLinux) oraz narzędziami do automatyzacji i utrzymania infrastruktury - **Ansible**, **Docker**, **GitLab CI**, **Prometheus**, **Grafana**.  
+Buduję stabilne środowiska, automatyzuję procesy i dbam o bezpieczeństwo systemów produkcyjnych.  
 
----
-
-## 🛠️ What you’ll find here
-- **Bash & Linux scripts** → practical utilities for monitoring, automation, and troubleshooting.  
-- **Infrastructure & DevOps configs** → Ansible, Docker, CI/CD, networking.  
-- **Cloud & system notes** → concise documentation for AWS, Azure, and on-prem systems.  
-- **Knowledge snippets** → notes with best practices and quick references.  
+Lubię proste i skuteczne rozwiązania - takie, które działają zawsze i bez kombinowania.  
+W pracy stawiam na automatyzację, przewidywalność i czytelną dokumentację.  
 
 ---
 
-## 🎯 Approach
-- **Practical focus** → tools that solve real sysadmin and DevOps problems.  
-- **Production mindset** → error handling, logging, clean structure.  
-- **Clear documentation** → everything should be reusable and easy to follow.  
+### Technologie, z którymi pracuję
+
+**Systemy:** Linux (Ubuntu, Debian, CentOS, AlmaLinux)  
+**Automatyzacja:** Ansible, GitLab CI  
+**Kontenery:** Docker  
+**Monitoring:** Prometheus, Grafana  
+**Sieć i bezpieczeństwo:** HAProxy, nginx, OpenVPN  
 
 ---
 
-📌 *If you’re into Linux, automation, or system reliability, you’ll probably find something useful here.*
+# Hi, I'm DPSHV
+
+I'm a System Administrator and DevOps Engineer.  
+I work daily with Linux systems (Ubuntu, Debian, CentOS, AlmaLinux) and automation tools such as **Ansible**, **Docker**, **GitLab CI**, **Prometheus**, and **Grafana**.  
+My focus is on building stable environments, automating deployment processes, and maintaining secure and reliable infrastructure.  
+
+I value simplicity and repeatability - systems should be clear, predictable, and easy to maintain.  
+In my work, I rely on automation, monitoring, and transparent documentation.  
+
+
+---
+
+### Tech stack
+
+**Systems:** Linux (Ubuntu, Debian, CentOS, AlmaLinux)  
+**Automation:** Ansible, GitLab CI  
+**Containers:** Docker  
+**Monitoring:** Prometheus, Grafana  
+**Networking & Security:** HAProxy, nginx, OpenVPN  
